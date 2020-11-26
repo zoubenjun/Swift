@@ -19,7 +19,6 @@ class ViewController: UIViewController {
 //        print(greet("Bill"))
         
 //        block()
-        
 
         struct Color {
             let red = 0, green = 0, blue: Double = 0
